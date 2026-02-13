@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Waseee Malik</h1>
+<h3 align="center">📊 Statistics Graduate | 📈 M.Phil Statistics Scholar | 🤖 Data & ML Enthusiast</h3>
 
-<!--
-**Marshmallow06/Marshmallow06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Journey
+
+- 🎓 **B.S. Statistics — Government College University (GCU), Lahore**
+- 📚 **M.Phil Statistics (Currently Enrolled) — GCU Lahore**
+- 🏢 **Internee (2 Months) — Bureau of Statistics, Punjab Office**
+
+---
+
+## 🧠 About Me
+
+- 📊 Strong foundation in Statistical Theory & Applied Statistics  
+- 📈 Passionate about Econometrics & Data Analytics  
+- 🤖 Exploring Machine Learning & Predictive Modeling  
+- 🔬 Research-Oriented & Analytical Thinker  
+- 📑 Experience handling official statistical datasets  
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPSS-005C84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Minitab-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EViews-1E90FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 Core Competencies
+
+- 📈 Regression & Econometric Modeling  
+- 📊 Hypothesis Testing & Statistical Inference  
+- 🤖 Predictive Analytics  
+- 📉 Time Series Analysis  
+- 📑 Academic & Research Writing  
+- 📊 Data Visualization  
+
+---
+
+## 🚀 Currently Working On
+
+- Advanced Statistical Modeling  
+- Machine Learning Applications  
+- Research Projects & Publications  
+- Real-world Data Analysis  
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Marshmallow06">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nayyer-waseem-01na">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ✨ Professional Motto
+
+<p align="center">
+<b>“Turning Data into Decisions through Statistical Intelligence.”</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=120&section=footer"/>
+</p>
