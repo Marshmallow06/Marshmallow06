@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/SPSS-005C84?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Minitab-2E8B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EViews-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </p>
 
