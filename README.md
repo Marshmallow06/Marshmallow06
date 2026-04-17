@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Waseee Malik</h1>
+<h1 align="center">Hi 👋, I'm Nayyer Waseem</h1>
 <h3 align="center">📊 Statistics Graduate | 📈 M.Phil Statistics Scholar | 🤖 Data & ML Enthusiast</h3>
 
 <p align="center">
